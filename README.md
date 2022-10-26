@@ -1,3 +1,38 @@
+
+
+# STEP 1
+
+Planning - Application Structure
+               - Component Hierarchy
+
+# STEP 2
+
+Setup React app - npx create-react-app film_releases
+                            - cd todo_list
+                            - code .
+                            - npm start 
+                            - Remove app.js return() contents 
+                            - import react, {useState} from 'react'
+                            - Let’s get <h1> Hello, World! </h1> displayed on the browser
+
+# STEP 3
+
+1 Build structure - components / containers
+2 Set up components not forgetting imports based on your app hierarchy 
+3 Get something displaying on each component 
+4 Setup state in the container
+5 Pass down data as props from container to components that need them
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
